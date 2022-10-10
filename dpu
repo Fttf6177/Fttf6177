@@ -1,10 +1,91 @@
-- 👋 Hi, I’m @Fttf6177
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Fttf6177/Fttf6177 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<html>
+     <head>
+	 <meta charset="utf-8"
+	  <title>3. hafta</title>
+	 </head> 
+	 <body>
+	 <h1>DPÜ<h2>
+	 <!--Artık bu kısma istediğim metni yazabilirimm -->
+	 
+	 <h4>Sıralı Liste<h4>
+	 <!-- ordered list -->
+	 <ol>
+	     <li>Trabzonspor</li>
+         <li>Beşiktaş</li>
+         <li>Fenerbahçe</li>		 
+	</ol>
+	 
+	 <h4>Sırasız Liste<h4>
+	 <!-- unordered list -->
+	 <ul>
+	     <li>Trabzonspor</li>
+         <li>Beşiktaş</li>
+         <li>Fenerbahçe</li>		 
+	</ol>
+	
+	 <h4>Sıralı Liste<h4>
+	 <!-- ordered list -->
+	 <ol type="1">
+	     <li>Trabzonspor</li>
+         <li>Beşiktaş</li>
+         <li>Fenerbahçe</li>		 
+	</ol>
+	
+	<h4>Sıralı Liste<h4>
+	 <!-- ordered list -->
+	 <ol type="A">
+	     <li>Trabzonspor</li>
+         <li>Beşiktaş</li>
+         <li>Fenerbahçe</li>		 
+	</ol>
+	
+	<h4>Sıralı Liste<h4>
+	 <!-- ordered list -->
+	 <ol type="a">
+	     <li>Trabzonspor</li>
+         <li>Beşiktaş</li>
+         <li>Fenerbahçe</li>		 
+	</ol>
+	
+	<h4>Sıralı Liste<h4>
+	 <!-- ordered list -->
+	 <ol type="I">
+	     <li>Trabzonspor</li>
+         <li>Beşiktaş</li>
+         <li>Fenerbahçe</li>		 
+	</ol>
+	
+	<h4>Sıralı Liste<h4>
+	 <!-- ordered list -->
+	 <ol type="i">
+	     <li>Trabzonspor</li>
+         <li>Beşiktaş</li>
+         <li>Fenerbahçe</li>		 
+	</ol>
+	
+	<h4>Sıralı Liste<h4>
+	 <!-- ordered list -->
+	 <ol type="1" start="50">
+	     <li>Trabzonspor</li>
+         <li>Beşiktaş</li>
+         <li>Fenerbahçe</li>		 
+	</ol>
+	
+	<h4>Sıralı Liste<h4>
+	 <!-- ordered list -->
+	 <ol type="1" start="50" reversed>
+	     <li>Trabzonspor</li>
+         <li>Beşiktaş</li>
+         <li>Fenerbahçe</li>		 
+	</ol>
+	
+	<img src="logo.png" width="200" height="200" alt="dpü"
+	
+	
+	
+	
+	
+	 </body>
+	</html>
